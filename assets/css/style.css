@@ -13130,9 +13130,17 @@ footer p {
   }
 
   .tubmargin{
+    height: 377px;
     margin-left: 183px;
   }
 
+}
+
+@media screen and (max-width: 392px) {
+  .tubmargin {
+      height: 306px;
+      margin-top: 0px !important;
+  }
 }
 
 .advSecLogo {
