@@ -13147,4 +13147,11 @@ footer p {
   height: 82px;
 }
 
+
+@media screen and (min-width: 768px) {
+  .section-esconder {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
